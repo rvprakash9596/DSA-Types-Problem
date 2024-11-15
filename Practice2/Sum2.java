@@ -1,4 +1,4 @@
-// Addtion of two numbers using user input
+//2.Addtion of two numbers using user input
 import java.util.Scanner;
 public class Sum2{
     public static void main(String args[]){
