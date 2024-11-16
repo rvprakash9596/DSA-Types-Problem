@@ -9,7 +9,6 @@ Expected Output :
 8 x 10 = 80 */
 
 package Practice7;
-
 import java.util.Scanner;
 
 public class Table1 {
