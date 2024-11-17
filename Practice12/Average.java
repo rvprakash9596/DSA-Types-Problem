@@ -7,6 +7,8 @@ Input second number: 20
 Input third number: 30
 Input fourth number: 40
 Enter fifth number: 50
+
+The Average should be = 30
  */
 import java.util.Scanner;
 public class Average{
