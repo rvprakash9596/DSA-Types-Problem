@@ -14,3 +14,13 @@ public class StarPattern7a {
         }
     }
 }
+
+/*
+
+     *
+    * *
+   * * *
+  * * * *
+ * * * * *
+
+*/
