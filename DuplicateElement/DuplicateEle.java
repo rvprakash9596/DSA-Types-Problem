@@ -23,7 +23,7 @@ public class DuplicateEle {
             System.out.println("Duplicate Element Not Found");
         }*/
 
-        //Approach 2 using Hash Method in Data Structure
+        //Approach 2 using HashSet in Data Structure
 
 
 
