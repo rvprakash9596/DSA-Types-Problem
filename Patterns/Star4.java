@@ -1,3 +1,4 @@
+package Patterns;
 public class Star4 {
     public static void main(String[] args) {
         int i,j;
