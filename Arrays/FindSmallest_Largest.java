@@ -1,12 +1,3 @@
-/*
-package Arrays;
-public class FindSmallest_Largest{
-    public static void main(String[] args) {
-        
-    }
-}
-*/
-
 package Arrays;
 
 public class FindSmallest_Largest {
