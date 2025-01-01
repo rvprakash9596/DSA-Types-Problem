@@ -1,3 +1,5 @@
+//Split the main array into two sub array
+
 package Arrays;
 import java.util.Arrays;
 
