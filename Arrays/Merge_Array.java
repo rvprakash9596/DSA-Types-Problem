@@ -6,6 +6,7 @@ public class Merge_Array {
     public static void main(String[] args) {
         String[] array1 = {"Aalu", "Matar", "Tamatar"};
         String[] array2 = {"Pyaj", "Dhaniya","Mirch"};
+        
         String[] mergedArray = new String[array1.length + array2.length];
         int i = 0, j = 0, k = 0;
         while (i < array1.length && j < array2.length) 
