@@ -2,6 +2,7 @@ package Arrays;
 
 import java.util.Arrays;
 
+//Check Two Equal Array is true or not
 public class TwoEqualArray{
     public static void main(String[] args) {
         String[] names1 = {"Arjun", "Bhavana", "Chitra"};
