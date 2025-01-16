@@ -1,6 +1,6 @@
 import java.util.Arrays;
  
-class Main
+class MergeTwoArray
 {
     private static void merge(int[] X, int[] Y, int m, int n)
     {
